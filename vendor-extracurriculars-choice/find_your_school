@@ -1,0 +1,218 @@
+[
+    {
+        "school_id": "8",
+        "school_name": "Adam Beck Junior Public School"
+    },
+    {
+        "school_id": "44",
+        "school_name": "AMG and The Grove Alternative School (AMG-The Grove)"
+    },
+    {
+        "school_id": "5",
+        "school_name": "Associated Hebrew Schools - Posluns"
+    },
+    {
+        "school_id": "114",
+        "school_name": "Balmy Beach Community School"
+    },
+    {
+        "school_id": "45",
+        "school_name": "Bedford Park Public School"
+    },
+    {
+        "school_id": "47",
+        "school_name": "Bessborough Drive Elementary and Middle School"
+    },
+    {
+        "school_id": "27",
+        "school_name": "Brown Junior Public School"
+    },
+    {
+        "school_id": "73",
+        "school_name": "Claude Watson School for the Arts (Junior & Middle)"
+    },
+    {
+        "school_id": "1",
+        "school_name": "Cottingham Public School"
+    },
+    {
+        "school_id": "16",
+        "school_name": "Dallington Public School\t\t\t"
+    },
+    {
+        "school_id": "25",
+        "school_name": "Davisville Junior\/Spectrum Public School\t\t\t"
+    },
+    {
+        "school_id": "15",
+        "school_name": "Denlow Public School\t\t\t"
+    },
+    {
+        "school_id": "40",
+        "school_name": "Dr. Rita Cox - Kina Minogok Public School"
+    },
+    {
+        "school_id": "17",
+        "school_name": "Earl Beatty Junior and Senior Public School\t\t\t\t\t\t\t"
+    },
+    {
+        "school_id": "95",
+        "school_name": "\u00c9cole \u00e9l\u00e9mentaire catholique du Sacr\u00e9-Coeur"
+    },
+    {
+        "school_id": "30",
+        "school_name": "Essex Junior and Senior Public School and Hawthorne II Bilingual Alternative Junior School"
+    },
+    {
+        "school_id": "24",
+        "school_name": "Fern Avenue Junior and Senior Public School\t\t\t"
+    },
+    {
+        "school_id": "42",
+        "school_name": "Forest Hill Junior and Senior Public School"
+    },
+    {
+        "school_id": "35",
+        "school_name": "Frankland Community School"
+    },
+    {
+        "school_id": "43",
+        "school_name": "Humewood Community School"
+    },
+    {
+        "school_id": "75",
+        "school_name": "Huron Street Junior Public School"
+    },
+    {
+        "school_id": "78",
+        "school_name": "Jays Care Foundation Camps"
+    },
+    {
+        "school_id": "101",
+        "school_name": "Jean Lumb Public School"
+    },
+    {
+        "school_id": "105",
+        "school_name": "John Fisher Junior Public School"
+    },
+    {
+        "school_id": "89",
+        "school_name": "JR Wilcox Community School"
+    },
+    {
+        "school_id": "110",
+        "school_name": "Kew Beach Junior Public School"
+    },
+    {
+        "school_id": "19",
+        "school_name": "Lambton-Kingsway Junior Middle School\t\t\t"
+    },
+    {
+        "school_id": "56",
+        "school_name": "Lanor Junior Middle School"
+    },
+    {
+        "school_id": "86",
+        "school_name": "McMurrich Jr. and Winona Sr. Public Schools"
+    },
+    {
+        "school_id": "48",
+        "school_name": "Montrose Junior Public School"
+    },
+    {
+        "school_id": "64",
+        "school_name": "Mountview Alternative Junior School"
+    },
+    {
+        "school_id": "83",
+        "school_name": "Netivot Hatorah Day School"
+    },
+    {
+        "school_id": "71",
+        "school_name": "Norseman Junior Middle School\t"
+    },
+    {
+        "school_id": "38",
+        "school_name": "Northlea Elementary and Middle School"
+    },
+    {
+        "school_id": "11",
+        "school_name": "Northmount School"
+    },
+    {
+        "school_id": "14",
+        "school_name": "Oriole Park Junior Public School\t\t\t"
+    },
+    {
+        "school_id": "57",
+        "school_name": "Pape Avenue Junior Public School"
+    },
+    {
+        "school_id": "37",
+        "school_name": "Paul Penna Downtown Jewish Day School"
+    },
+    {
+        "school_id": "34",
+        "school_name": "Rawlinson Community School"
+    },
+    {
+        "school_id": "28",
+        "school_name": "Regal Road Junior Public School"
+    },
+    {
+        "school_id": "46",
+        "school_name": "Roden Public School-Equinox Alternative "
+    },
+    {
+        "school_id": "97",
+        "school_name": "Rolph Road Public School"
+    },
+    {
+        "school_id": "111",
+        "school_name": "Secord Public School"
+    },
+    {
+        "school_id": "92",
+        "school_name": "Tutoring Sessions"
+    },
+    {
+        "school_id": "9",
+        "school_name": "Upper Canada College"
+    },
+    {
+        "school_id": "61",
+        "school_name": "Voice Integrative School"
+    },
+    {
+        "school_id": "58",
+        "school_name": "Vradenburg Junior Public School"
+    },
+    {
+        "school_id": "67",
+        "school_name": "Westside Montessori School"
+    },
+    {
+        "school_id": "109",
+        "school_name": "White Haven Public School"
+    },
+    {
+        "school_id": "50",
+        "school_name": "Whitney Junior Public School"
+    },
+    {
+        "school_id": "69",
+        "school_name": "Wilmington Elementary School "
+    },
+    {
+        "school_id": "2",
+        "school_name": "Winchester Public School"
+    },
+    {
+        "school_id": "82",
+        "school_name": "Withrow Avenue Public School"
+    },
+    {
+        "school_id": "49",
+        "school_name": "Yorkview Public School"
+    }
+]
