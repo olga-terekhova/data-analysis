@@ -1,0 +1,96 @@
+1. Adam Beck Jr PS, 400 Scarborough Rd
+2. Alexander Stirling PS, 70 Fawcett Trail
+3. Allenby Jr PS, 391 St Clements Ave
+4. Bannockburn PS, 12 Bannockburn Ave
+5. Beverley Heights MS, 26 Troutbrooke Dr
+6. Beverly Glen Jr PS, 85 Beverly Glen Blvd
+7. Birch Cliff PS, 1650 Kingston Rd
+8. Blake Street Jr PS, 21 Boultbee Ave
+9. Bloordale MS, 10 Toledo Rd
+10. Bowmore Rd Jr & Sr PS, 80 Bowmore Rd
+11. Brian PS, 95 Brian Dr
+12. Brimwood Blvd Jr PS, 151 Brimwood Blvd
+13. Broadacres, 45 Crendon Dr
+14. Broadlands PS, 106 Broadlands Blvd
+15. Brookhaven PS, 70 Brookhaven Dr
+16. Brown Jr PS, 454 Ave Rd
+17. Carleton Village Jr & Sr SWA, 315 Osler St
+18. Chief Dan George PS, 185 Generation Blvd
+19. Clairlea PS, 25 Rosalind Cr
+20. Cliffwood PS, 140 Cliffwood Rd
+21. Corvette Jr PS, 30 Corvette Ave
+22. Cosburn MS, 520 Cosburn Ave
+23. D A Morrison MS, 271 Gledhill Ave
+24. Dallington PS, 18 Dallington Dr
+25. Davisville PS, 50 Davisville Ave
+26. Derrydown PS, 120 Derrydown Rd
+27. Dewson Street Jr PS, 65 Concord Ave
+28. Don Valley MS, 3100 Don Mills Rd
+29. Duke of Connaught Jr & Sr PS, 70 Woodfield Rd
+30. Dundas Jr PS, 935 Dundas St East
+31. Dunlace PS, 20 Dunlace Dr
+32. Earl Beatty Jr & Sr PS, 55 Woodington Ave
+33. Earl Grey Sr PS, 100 Strathcona Ave
+34. Earl Haig PS, 15 Earl Haig Ave
+35. Ellesmere-Statton PS, 739 Ellesmere Rd
+36. Elmlea JS, 50 Hadrian Dr
+37. Fern Avenue Jr & Sr PS, 128 Fern Ave
+38. Fraser Mustard ELA, 82 Thorncliffe Park Dr
+39. General Crerar PS, 30 McGregor Rd
+40. George B Little PS, 125 Orton Park Rd
+41. George Syme CS, 69 Pritchard Ave
+42. Gledhill Jr PS, 2 Gledhill Ave
+43. Glen Ames Sr PS, 18 Williamson Rd
+44. Glen Park PS, 101 Englemount Ave
+45. Glenview Sr PS, 401 Rosewell Ave
+46. Gracedale PS, 186 Gracedale Blvd
+47. Hilltop MS, 35 Trehorne Dr
+48. Howard Jr PS, 30 Marmaduke St
+49. Humbercrest PS, 14 Saint Marks Rd
+50. Humewood CS, 15 Cherrywood Ave
+51. Islington JMS, 44 Cordova Ave
+52. Jackman Avenue Jr PS, 79 Jackman Ave
+53. John English JMS, 95 Mimico Ave
+54. John Fisher Jr PS, 40 Erskine Ave
+55. King Edward Jr & Sr PS, 112 Lippincott St
+56. Kingsview Village JS, 1 York Rd
+57. Lester B Pearson ES, 7 Snowcrest Ave
+58. Lord Lansdowne Jr & Sr PS, 33 Robert St
+59. Mason Rd Jr PS, 78 Mason Rd
+60. Melody Village JS, 520 Silverstone Dr
+61. Millwood JS, 222 Mill Rd
+62. Morse Street Jr PS, 180 Carlaw Ave
+63. North Agincourt Jr PS, 60 Moran Rd
+64. Northlea E & MS, 305 Rumsey Rd
+65. O’Connor PS, 1665 O’Connor Dr
+66. Owen PS, 111 Owen Blvd
+67. Palmerston Ave Jr PS, 734 Palmerston Ave
+68. Parkdale Jr & Sr PS, 78 Seaforth Ave
+69. Pauline Johnson Jr PS, 35 Dunmurray Blvd
+70. Perth Avenue Jr PS, 14 Ruskin Ave
+71. Queen Alexandra MS, 181 Broadview Ave
+72. RH McGregor ES, 555 Mortimer Ave
+73. Rawlinson CS, 231 Glenholme Ave
+74. Regal Rd Jr PS, 95 Regal Rd
+75. Robert Service Sr PS, 945 Danforth Rd
+76. Rockford PS, 60 Rockford Rd
+77. Rosethorn JS, 2 Remington Dr
+78. Runnymede Jr & Sr PS, 357 Runnymede Rd
+79. Second Street JMS, 71 Second St
+80. Secord ES, 101 Barrington Ave
+81. Sir Adam Beck JS, 544 Horner Ave
+82. Sir Alexander MacKenzie Sr PS, 33 Heather Rd
+83. Sir Ernest MacMillan Sr PS, 149 Huntsmill Blvd
+84. Thorncliffe Park PS, 80 Thorncliffe Park Dr
+85. Topcliff PS, 65 Topcliff Ave
+86. Tredway Woodsworth PS, 112 Sedgemount Dr
+87. Tumpane PS, 48 Tumpane St
+88. White Haven PS, 105 Invergordon Ave
+89. William G Miller PS, 60 Bennett Rd
+90. Williamson Rd Jr PS, 24 Williamson Rd
+91. Willowdale MS, 225 Senlac Rd
+92. Winchester Jr & Sr PS, 15 Prospect St
+93. Windfields MS, 375 Banbury Rd
+94. Winona Drive Sr PS, 101 Winona Dr
+95. Withrow Avenue Jr PS, 25 Bain Ave
+96. Yorkview PS, 130 Yorkview Dr
