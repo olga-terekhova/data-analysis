@@ -4,4 +4,4 @@ We want to analyse what kind of schools are more likely to be chosen by this ven
 1) Learning Opportunity Index calculated by TDSB
 2) Presence of Early French Immersion stream in TDSB schools
 
-The analysis is performed in [vendor-extracurriculars-choice.ipynb](vendor-extracurriculars-choice.ipynb).
+The analysis is performed using PySpark in [vendor-extracurriculars-choice.ipynb](vendor-extracurriculars-choice.ipynb).
